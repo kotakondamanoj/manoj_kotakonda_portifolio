@@ -296,35 +296,43 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
+/* ===== Testing Skills Bars ===== */
+.skills__manual {
   width: 95%;
 }
-.skills__css {
+
+.skills__selenium {
   width: 85%;
 }
-.skills__js {
-  width: 65%;
-}
-.skills__ux {
-  width: 85%;
-}
-.skills__img {
-  border-radius: 0.5rem;
-}
-.skills__b2c {
+
+.skills__java {
   width: 80%;
 }
-.skills__react {
-  width: 60%;
-}
-.skills__jquery {
+
+.skills__cucumber {
   width: 85%;
 }
-.skills__node {
-  width: 70%;
+
+.skills__testng {
+  width: 80%;
 }
-.skills__press {
-  width: 85%;
+
+.skills__api {
+  width: 80%;
+}
+
+.skills__alm {
+  width: 95%;
+}
+
+.skills__html {
+   width: 85%; 
+} 
+.skills__css {
+   width: 85%;
+}
+.skills__git {
+   width: 85%;
 }
 
 /* ===== protifolio section =====*/

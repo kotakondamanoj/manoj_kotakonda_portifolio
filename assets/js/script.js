@@ -56,7 +56,7 @@ sr.reveal(".home__img, .about__subtitle, .about__text, .skills__img", {
 sr.reveal(".home__social-icon", { interval: 200 });
 sr.reveal(".skills__data, .work__img, .contact__input", { interval: 200 });
 
-const titles = ["Web ", "Angular"];
+const titles = ["SDET ", "Manual"];
 let index = 0;
 
 // Function to update the title
